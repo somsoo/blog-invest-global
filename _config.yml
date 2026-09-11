@@ -1,0 +1,10 @@
+title: "Global Market & Stock Intelligence"
+description: "Institutional grade equity research, ETF allocations, and global market momentum."
+url: "https://invest-global.enjoy-onepage.com"
+baseurl: ''
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
