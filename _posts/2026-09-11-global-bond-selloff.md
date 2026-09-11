@@ -6,15 +6,15 @@ image: assets/images/thumb_1789099985.webp
 description: "As crude oil breaches $100, the global bond selloff intensifies. Discover how surging 10-year Treasury yields are fueling market volatility and valuation risk."
 ---
 
-# Executive Brief: Navigating the Global Bond Selloff and Equity Volatility
+## Executive Brief: Navigating the Global Bond Selloff and Equity Volatility
 
 As we analyze the market data through September 11, 2026, the intersection of macroeconomic supply-side shocks and fiscal intervention failure has created a treacherous environment for portfolio managers. We are observing a classic "risk-off" transition where the traditional correlation between stocks and bonds is being challenged by inflationary fears tied to energy volatility.
 
 ## The Macro-Fundamental Disconnect: Oil and Yields
 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099984_0.webp' | relative_url }})
-<br>
+
+![Global Bond Selloff Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099984_0.webp' | relative_url }})
+
 
 
 The current global bond selloff is fundamentally anchored in the return of energy-driven inflation. As of September 11, 2026, U.S. crude oil has breached the $100 per barrel threshold—a level not seen since May. This movement is not merely a transient price fluctuation; it is acting as a primary catalyst for a repricing of inflation expectations across the yield curve.
@@ -25,9 +25,9 @@ From a quantitative perspective, the primary danger here is multiple compression
 
 ## Fiscal Policy Limitations: The Failure of Intervention
 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099985_1.webp' | relative_url }})
-<br>
+
+![Global Bond Selloff Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099985_1.webp' | relative_url }})
+
 
 
 The recent attempt to stabilize the debt markets via Treasury intervention has been met with skepticism by the institutional investor class. The reported $6 billion bond buyback operation initiated by Scott Bessent failed to break the "fever" in the bond market. 
@@ -47,9 +47,9 @@ The failure of the $6 billion operation to hold the line on yields suggests that
 
 ## Sector Rotation and Defensive Posture
 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099985_2.webp' | relative_url }})
-<br>
+
+![Global Bond Selloff Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099985_2.webp' | relative_url }})
+
 
 
 In light of the broader selloff, our capital allocation strategy must shift. We are observing a rotation where "risk-on" assets, which are sensitive to interest rate volatility, are seeing massive outflows. The current environment is hostile to long-duration assets.
@@ -60,9 +60,9 @@ Institutional allocators should be wary of chasing the "dip" while bond yields r
 
 ## Actionable Strategy: The CIO Checklist
 
-<br>
-![Market Chart]({{ '/' | append: 'assets/images/vibe_1789099985_3.webp' | relative_url }})
-<br>
+
+![Global Bond Selloff Strategic Analysis Graphic]({{ '/' | append: 'assets/images/vibe_1789099985_3.webp' | relative_url }})
+
 
 
 As we navigate this period of heightened volatility, institutional investors must adhere to a strict discipline regarding risk management and capital preservation. The following three-step checklist is intended to guide portfolio adjustments over the coming trading sessions:
